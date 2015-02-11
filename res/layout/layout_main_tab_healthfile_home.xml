@@ -1,0 +1,203 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main_healthfile"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.85"
+        android:orientation="vertical" >
+
+        <ViewFlipper
+            android:id="@+id/main_file_xw_vf"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" >
+
+            <!--<include layout="@layout/layout_main_tab_healthfile_begin" />
+
+            <include layout="@layout/layout_main_tab_healthfile_choosetype" />
+
+            <include layout="@layout/layout_main_tab_healthfile_xw_test1" />
+            
+             <include layout="@layout/layout_main_tab_healthfile_xw_test2" />
+
+            <include layout="@layout/layout_main_tab_healthfile_xw_test3" />
+
+            <include layout="@layout/layout_main_tab_healthfile_xw_test4" />
+            
+            <include layout="@layout/layout_main_tab_healthfile_xw_test5" />
+
+            <include layout="@layout/layout_main_tab_healthfile_xw_test6" />
+
+            <include layout="@layout/layout_main_tab_healthfile_xw_test7" />
+            
+            <include layout="@layout/layout_main_tab_healthfile_xw_test8" />
+
+            <include layout="@layout/layout_main_tab_healthfile_xw_test9" />
+
+            <include layout="@layout/layout_main_tab_healthfile_xw_test10" />
+            
+            <include layout="@layout/layout_main_tab_healthfile_xw_test11" />
+
+            <include layout="@layout/layout_main_tab_healthfile_xw_test12" />
+
+            <include layout="@layout/layout_main_tab_healthfile_xw_test13" />
+            
+            <include layout="@layout/layout_main_tab_healthfile_xw_test14" />
+
+            <include layout="@layout/layout_main_tab_healthfile_xw_test15" />
+
+            <include layout="@layout/layout_main_tab_healthfile_xw_test16" />
+            
+            <include layout="@layout/layout_main_tab_healthfile_xw_test17" />
+
+            <include layout="@layout/layout_main_tab_healthfile_xw_test18" />
+
+            <include layout="@layout/layout_main_tab_healthfile_xw_test19" />
+            
+            <include layout="@layout/layout_main_tab_healthfile_xw_test20" />
+
+            <include layout="@layout/layout_main_tab_healthfile_xw_test21" />
+
+            <include layout="@layout/layout_main_tab_healthfile_xw_test22" />
+            
+            <include layout="@layout/layout_main_tab_healthfile_xw_test23" />
+
+            <include layout="@layout/layout_main_tab_healthfile_xw_test24" />
+
+            <include layout="@layout/layout_main_tab_healthfile_xw_test25" />
+            
+            <include layout="@layout/layout_main_tab_healthfile_xw_test26" />
+
+            <include layout="@layout/layout_main_tab_healthfile_xw_test27" />
+
+            <include layout="@layout/layout_main_tab_healthfile_xw_test28" />
+            
+            <include layout="@layout/layout_main_tab_healthfile_xw_test29" />
+
+            <include layout="@layout/layout_main_tab_healthfile_xw_test30" />
+
+            <include layout="@layout/layout_main_tab_healthfile_xw_test31" />
+            
+            <include layout="@layout/layout_main_tab_healthfile_xw_test32" />
+
+            <include layout="@layout/layout_main_tab_healthfile_xw_test33" />
+
+            <include layout="@layout/layout_main_tab_healthfile_xw_test34" />
+            
+            <include layout="@layout/layout_main_tab_healthfile_xw_test35" />
+
+            <include layout="@layout/layout_main_tab_healthfile_xw_test36" />
+
+            <include layout="@layout/layout_main_tab_healthfile_xw_test37" />
+            
+            <include layout="@layout/layout_main_tab_healthfile_xw_test38" />
+
+            <include layout="@layout/layout_main_tab_healthfile_xw_test39" />
+
+            <include layout="@layout/layout_main_tab_healthfile_xw_test40" />
+            
+            <include layout="@layout/layout_main_tab_healthfile_xw_test41" />
+
+            <include layout="@layout/layout_main_tab_healthfile_xw_test42" />
+
+            <include layout="@layout/layout_main_tab_healthfile_xw_test43" />
+            
+            <include layout="@layout/layout_main_tab_healthfile_xw_test44" />
+
+            <include layout="@layout/layout_main_tab_healthfile_xw_test45" />
+
+            <include layout="@layout/layout_main_tab_healthfile_xw_test46" />
+            
+            <include layout="@layout/layout_main_tab_healthfile_xw_test47" />
+
+            <include layout="@layout/layout_main_tab_healthfile_xw_test48" />
+
+            <include layout="@layout/layout_main_tab_healthfile_xw_test49" />
+            
+            <include layout="@layout/layout_main_tab_healthfile_xw_test50" />
+
+            <include layout="@layout/layout_main_tab_healthfile_xw_test51" />
+
+            <include layout="@layout/layout_main_tab_healthfile_xw_test52" />
+            
+            <include layout="@layout/layout_main_tab_healthfile_xw_test53" />
+
+            <include layout="@layout/layout_main_tab_healthfile_xw_test54" />
+
+            <include layout="@layout/layout_main_tab_healthfile_xw_test55" />
+            
+            <include layout="@layout/layout_main_tab_healthfile_xw_test56" />
+
+            <include layout="@layout/layout_main_tab_healthfile_xw_test57" />
+
+            <include layout="@layout/layout_main_tab_healthfile_xw_test58" />
+            
+            <include layout="@layout/layout_main_tab_healthfile_xw_test59" />
+
+            <include layout="@layout/layout_main_tab_healthfile_xw_test60" />
+
+            <include layout="@layout/layout_main_tab_healthfile_xw_test61" />
+            
+            <include layout="@layout/layout_main_tab_healthfile_xw_test62" />
+
+            <include layout="@layout/layout_main_tab_healthfile_xw_test63" />
+
+            <include layout="@layout/layout_main_tab_healthfile_xw_test64" />
+            
+            <include layout="@layout/layout_main_tab_healthfile_xw_test65" />
+
+            <include layout="@layout/layout_main_tab_healthfile_xw_test66" />
+
+            <include layout="@layout/layout_main_tab_healthfile_xw_test67" />
+            
+            <include layout="@layout/layout_main_tab_healthfile_xw_test68" />
+
+            <include layout="@layout/layout_main_tab_healthfile_xw_test69" />
+
+            <include layout="@layout/layout_main_tab_healthfile_xw_test70" />
+            
+            <include layout="@layout/layout_main_tab_healthfile_xw_test71" />
+
+            <include layout="@layout/layout_main_tab_healthfile_xw_test72" />
+
+            <include layout="@layout/layout_main_tab_healthfile_xw_test73" />
+            
+            <include layout="@layout/layout_main_tab_healthfile_xw_test74" />
+
+            <include layout="@layout/layout_main_tab_healthfile_xw_test75" />
+            
+            <include layout="@layout/layout_main_tab_healthfile_xw_test76" />
+            
+            <include layout="@layout/layout_main_tab_healthfile_xw_test77" />
+            
+            <include layout="@layout/layout_main_tab_healthfile_xw_test78" />
+            
+            <include layout="@layout/layout_main_tab_healthfile_xw_test79" />
+            
+            <include layout="@layout/layout_main_tab_healthfile_xw_test80" /> -->
+
+        </ViewFlipper>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.15"
+        android:gravity="center" >
+
+        <Button
+            android:id="@+id/main_file_begin_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/main_file_begin_selector"
+            android:text="@string/main_file_begin_tx"
+            android:textSize="20sp" />
+    </LinearLayout>
+
+</LinearLayout>

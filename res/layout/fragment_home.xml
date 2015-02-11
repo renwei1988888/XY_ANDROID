@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical" >
+
+        <com.xy.widget.ScrollLayout
+            android:id="@+id/scrollLayout_main"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1" >
+
+            <!-- 首页 -->
+
+            <include layout="@layout/layout_main_tab_home" />
+
+            <!-- 健康贴士 -->
+
+            <include layout="@layout/layout_main_tab_health" />
+
+            <!-- 健康档案 -->
+
+            <include layout="@layout/layout_main_tab_healthfile_home" />
+
+            <!-- 行为改变 -->
+
+            <include layout="@layout/layout_main_tab_change" />
+
+            <!-- 论坛 -->
+
+            <include layout="@layout/layout_main_tab_bbs" />
+        </com.xy.widget.ScrollLayout>
+    </LinearLayout>
+
+    <include layout="@layout/layout_main_menu" />
+
+</LinearLayout>

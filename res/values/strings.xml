@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">爱同在</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="login_text">登录</string>
+    
+    <string name="login_username_hintText">Username:</string>
+    <string name="login_password_hintText">Password:</string>
+    <string name="login_autoLogin_Text">自动登录</string>
+    <string name="login_forgetPassword_Text"><u>忘记密码？</u></string>
+    <string name="login_register_Text"><u>我要注册</u></string>
+    <string name="register_username_Txt">用户名：</string>
+    <string name="register_password_Txt">密     码：</string>
+    <string name="register_affirmPassword_Txt">确认密码：</string>
+    <string name="register_email_Txt">邮      箱：</string>
+    <string name="register_age_Txt">出身年月：</string>
+    <string name="register_sure_Txt">确    定</string>
+    <string name="login_register_Txt">我要注册</string>
+    <string name="login_forget_Txt">忘记密码</string>
+    <string name="forget_username_Txt">用     户    名:</string>
+    <string name="forget_newpwd_Txt">新   密   码:</string>
+    <string name="forget_newpwd_sure_Txt">新密码确认:</string>
+    <string name="main_title">首  页</string>
+    <string name="main_hottopic_Txt">热点话题</string>
+    <string name="main_specialinvtation_Txt">专题邀请</string>
+    
+    <string name="main_health_title">健康贴士</string>
+    <string name="main_health_detail">贴士详情</string>
+    
+    <string name="main_health_xcbjb_txtt">性传播疾病</string>
+    <string name="main_health_ywly_txtt">药物滥用</string>
+    <string name="main_health_yfxyy_txtt">预防性用药</string>
+    <string name="main_health_kbkywzl_txtt">抗病毒药物治疗</string>
+    <string name="main_health_aqtsy_txtt">安全套使用</string>
+    <string name="main_health_hivjc_txtt">HIV检测</string>
+    
+    <string name="main_file_title">健康档案</string>
+    <string name="main_change_title">行为改变</string>
+    
+    <string name="main_change_xwjl_txt">行为记录</string>
+    <string name="main_change_wxgst_txt">我想告诉TA</string>
+    <string name="main_change_jcgzytx_txt">检测告知与提醒</string>
+    <string name="main_change_jjxl_txt">每天一点积极心理</string>
+    
+    <string name="main_change_readinfo_txt">亲，根据您的健康评估资料，我们建议您能够对现存的一些危险行为进行改变，以降低对健康的危害！以下为相应的计划。</string>
+    <string name="main_change_read_txt">查      看</string>
+    <string name="main_change_plan_txt">改变计划</string>
+    <string name="main_change_begin_txt">开始行为改变</string>
+    <string name="main_change_sug_txt">性行为与安全套使用\n改变计划：\n
+坚持100%使用安全套。\n
+详细建议：\n
+        1. 即使知晓对方HIV血清状况为阴性，也应坚持使用。安全套的使用能够预防多种性传播疾病，且HIV感染后存在“窗口期”，此期间并不能检测出HIV抗体，所以即使HIV阴性也并不能保证未感染。\n\n
+2. 在任何情况下，只要有插入性性行为的发生（包括肛交、阴道交、口交），均应使用安全套。尤其是应避免在饮酒、使用成瘾性药物之后发生无保护的性行为。酒精或药物使用之后，会影响个体的分辨力和控制力，出现无套性行为、性行为时间延长等现象，增加粘膜破损的危险。\n\n
+3. 提升100%%使用安全套的信心与能力，要建立无论出于任何原因、无论在何种环境中以及在面对性伴侣的不合理要求时，都能做到排除干扰，坚持使用安全套。\n\n
+4. 必须坚持100%%使用安全套，因为即使一次危险行为，也有可能导致严重后果，不能抱有侥幸心理，即使在固定性伴侣之间，也不能将使用安全套视作不信任的表现，要理解安全套的使用也是有效性行为的一部分。\n\n
+5. 要保证正确使用安全套，查看有效期、全程使用、使用水性润滑剂、防止脱落与破损等。切忌使用油性润滑剂，因其对橡胶制品有腐蚀作用，能够使安全套在60秒内便出现破损，从而增加危险。\n\n
+6. 性传播疾病，能够引起黏膜破损或增加破损的机会，从而增加HIV感染危险，所以及早发现并治疗性传播疾病是预防HIV感染的重要部分，并要坚持正确使用安全套。\n\n
+7. 血清状况，即提倡在与男性（或女性）发生性行为之前，知晓对方的血清状况（HIV）、性病状况，并主动告知对方自身情况。同时，当自身出现HIV/性病阳性时，能够告知性伴侣、停止性生活或使用安全套等手段预防，并鼓励性伴侣接受检测或治疗。\n\n
+8. HIV血清检测阴性者，建议每3-6个月进行检测。HIV阳性但尚未达到抗病毒治疗条件者，建议每3-6个月进行CD4细胞计数检测，同时要避免危险行为。\n\n
+9. 提倡双方建立唯一的、固定的、忠诚的伴侣关系，减少或避免临时性伴（419）人数与次数。\n\n\n
+
+成瘾性药物滥用\n
+改变计划：\n
+对使用阿片类药物者，如海洛因、鸦片、吗啡、可待因、可卡因、杜冷丁等：建议接受专业人员提供的替代维持治疗，如美沙酮替代维持治疗和丁丙诺啡替代维持治疗。\n\n
+使用苯丙胺类药物、大麻、rush（催情剂）、K粉等成瘾性药物者：建议停止使用药物，针对戒断症状，寻求专业人员帮助。\n\n
+详细建议：\n
+1. 远离危险环境，不参与吸毒环境、毒友聚会等。切不可抱有“再吸最后一次，没有关系”、“再吸一次，证明自己的意志力” 等侥幸心理，或认为与吸毒的朋友在一起，大家都吸我不吸不好等错误观念；\n\n
+2. 要有信心，停止滥用药物并不是不能完成的事。停止用药后不能复吸，否则会加重戒断症状，但也要知道复吸一次并不是步入了万劫不复的深渊，也不是不可救药，要继续努力防止复吸。\n\n
+3. 避免出现用药后性行为，因药物能够降低个体自控力、失去意识、延长性行为时间，从而出现无套性行为、被迫性行为、粘膜破损机会增加等危险情况。\n\n
+4. 要树立停止滥用药物的信念，是出于自身动机，而不是单纯的出于外界压力、出于对家人的愧疚等外界因素。\n\n
+5. 培养健康的生活方式，规律作息、适当运动等。重建社会支持系统，与家人、朋友建立良好关系。\n\n
+6. 不同药物需要不同方法，不建议自行戒除，要寻求专业人员帮助。\n\n\n
+
+用药依从性\n
+要坚持按时按量服药，不漏服、不擅自停药、定期前往专业机构取药。\n\n
+详细建议：\n
+启动抗病毒治疗后，药物使用能够有效抑制病毒的复制与全身蔓延，并降低HIV向他人的传播。停药后，这些作用将会迅速降低。所以，一定要坚持按时按量服药。
+
+    </string>
+
+    <string name="main_bbs_title">论  坛</string>
+    <string name="main_bbs_ztlt_tx">专题论坛</string>
+    <string name="main_bbs_tlz_tx">讨论组</string>
+    <string name="main_bbs_qgtd_tx">情感天地</string>
+    <string name="main_bbs_tbjy_tx">同伴教育</string>
+    
+    <string name="main_jf_text">目前积分:</string>
+    <string name="main_jff_text">分</string>
+    <string name="main_jfsjz_text">我的积分时间轴</string>
+    <string name="main_rdht_text">热点话题</string>
+    <string name="main_ztyq_text">专题邀请</string>
+    <string name="main_left_isLogin_yes">已登录</string>
+    <string name="main_left_isLogin_no">未登录</string>
+    <string name="main_left_myInfo_tx">我的资料</string>
+    <string name="myinfo_jf_tx">我的积分：</string>
+    <string name="myjf_rule_show_tx">查看积分规则</string>
+    <string name="myjf_rule_tx">积分规则</string>
+    <string name="myjf_rule_tittle_tx">积分规则如下：</string>
+    <string name="myjf_rule1__tx">(1)完成初次评估50分</string>
+    <string name="myjf_rule2__tx">(2)每日行为反馈5分</string>
+    <string name="myjf_rule3__tx">(3)每周行为评估10分</string>
+    <string name="myjf_rule4__tx">(4)完成计划奖励10分</string>
+    <string name="myjf_rule5__tx">(5)建立讨论组10分</string>
+    <string name="myjf_rule6__tx">(6)参与专题讨论10分</string>
+    <string name="myjf_rule7__tx">(7)发起讨论10分</string>
+    <string name="myjf_rule8__tx">(8)创建小组20分</string>
+    <string name="myjf_rule9__tx">(9)到达100分能够发起讨论</string>
+    <string name="myjf_rule10__tx">(10)200分能够发表文章</string>
+    <string name="myjf_rule11__tx">(11)300分能够加入同伴教育</string>
+    <string name="main_left_myjf_tx">我的积分</string>
+    <string name="main_left_jgzx_tx">机构咨询</string>
+    <string name="jgzx_tgxy_tx">提供预约</string>
+    <string name="jgzx_yy_tx">预  约</string>
+    <string name="jgzx_phonenumber_tx">手机号码:</string>
+    <string name="jgzx_testtime_tx">检测时间:</string>
+    <string name="jgzx_jgjs_tx">机构介绍</string>
+    <string name="main_left_yjfk_tx">意见反馈</string>
+    <string name="myyjfk_suggest_tx">请留下您中肯的建议：</string>
+    <string name="myyjfk_suggest_submit_tx">提   交</string>
+    <string name="myyjfk_suggest_please_tx">请输入200字内留言...</string>
+    <string name="myjghz_tx">机构汇总</string>
+    <string name="myjghz_yjyy_tx">一键预约</string>
+    <string name="myjgzx_bus">乘705路到纬二路站下车；603路，112路，139路到凌宵路东下车向南行100米，405路、110路、103路、126路、127路、502路、908路到紫薇路站下车，沿紫薇路北行200米。</string>
+    <string name="main_left_setting_tx">设&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;置</string>
+    <string name="cache_control">缓存控制</string>
+    <string name="ban_download_imges">2G/3G禁止下图</string>
+    <string name="clear_cache">清除缓存</string>
+    <string name="software_update">软件升级</string>
+    <string name="software_info">软件信息</string>
+    <string name="reaction">反馈</string>
+    <string name="exist">注  销</string>
+    <string name="copyright">版权信息</string>
+    <string name="about">关于</string>
+    <string name="new_version_detection">新版本检测</string>
+    <string name="main_file_xwpg_tx">行为评估</string>
+    <string name="main_file_xlpg_tx">心理评估</string>
+    <string name="main_file_dy_tx">您好！感谢您的关注！从陌生，到相守，到相识，因彼此并肩，使我们产生一种战胜孤独的力量。此问卷仅是为了解您的部分健康状况，从而希望能对您给予一些有益的建议。非常感谢您的支持与配合！我们郑重承诺：\n\n
+1.此为匿名答题，问卷中不包含任何识别性信息，所有收集到的信息用于发现并解决一些健康问题，不会向他人泄露。我们将严格保证其隐秘性，请放心填写。\n\n
+ 2.您坦诚的回答能帮助我们更好地为您和相关人群提供服务，希望您能如实填写。\n\n
+3.请您阅读每题后，选择最能代表您意见的选项，答案无对错之分。\n\n
+再次感谢您的合作！</string>
+    <string name="main_file_xl_jl_tx">焦虑自评量表(Self-rating Anxiaty Scale，SAS)\n\n 
+该量表由20个条目组成，用于测量个体近一周内的焦虑情况.采用1、2、3、4四级评分，其中有五个条目采用反向计分，分别是5、9、13、17、19（反向计分意思是，选A记4分，选B记3分，选C记2分，选D记1分）。各条目分数相加，即得到粗分，总粗分*1.25=标准分。标准分≥50分提示存在焦虑情况，50～59分为轻度焦虑；60-69分为中度焦虑；70分及以上为重度焦虑。</string>
+    <string name="main_file_xl_yy_tx">抑郁自评量表(Self-rating Depression Scale，SDS)：\n\n
+共有20个条目，用于测量个体近一周内抑郁情况。每一个条目分为1、2、3、4四级评分，其中10个条目为正向计分，10个条目为反向计分，反向计分条目分别为2、5、6、11、12、14、16、17、18、20。各条目分数相加，即得到粗分， 总粗分*1.25=标准分，标准分达到53，提示存在抑郁情况。53～62分为轻度抑郁，63～72分为中度抑郁，72分以上为重度抑郁。</string>
+    <string name="main_file_xl_sh_tx">社会支持评定量表：\n\n
+包括10个条目，用于测量个体所受社会支持情况。所有条目组成三个维度即客观支持(2，6，7)、主观支持(I，3，4，5)及社会支持利用度(8，9，10)。\n\n
+量表积分方法：\n
+(1)1-4条及8-10条，每个条目只选一项，按1，2，3，4项分别记1，2，3，4分;\n
+(2)第5条分A，B，C，D四项计总分，每项从“无”到“全力支持”分别计1-4分;\n
+(3)第6、7条，如“无任何来源”计0分，回答“有下列来源”者，有几个来源计几分。\n
+没有一定的评分标准，用户根据前后前后两次测量的分之差，评价自身的社会支持状况改变。得分越高，说明该维度获得的支持越多。</string>
+    <string name="main_file_xl_yw_tx">《药物成瘾者生存质量测定量表》:\n\n
+量表用于测量药物成瘾者的生存质量，含躯体功能、心理功能、症状副作用、社会功能4个维度，共41个条目。其中躯体功能和心理功能各9个条目，症状副作用、社会功能各11个条目，还有一个自我健康总体评价条目。量表为5级评分，除33—41题为正向条目外，其余条目均为反向计分条目,第41条目为健康自评不计分。
+没有一定的评分标准，用户根据前后两次测量的分值差，判断生活质量的改变。分值越高，表明生活质量越差。</string>
+    <string name="main_file_xl_aqt_tx">安全套使用自我效能的量表：\n\n
+本研究中使用的安全套使用自我效能量（采取行为并取得预期结果的能力）表包括十四个条目，涉及做出安全套使用的决定(2个条目)、安全套正确使用(6个条目)及与性伴沟通安全套使用(6个条目)三个方面的自我效能。\n\n
+每个条目为正向积分，将问卷的总体得分范围三等分划分自我效能的高低水平，其中14-32分为低水平，33—51分为中等水平，52-70分为高水平。</string>
+    <string name="main_file_begin_tx">开始答题</string>
+    <string name="main_file_choose_tx">请选择</string>
+    <string name="main_file_next_tx">下一题</string>
+    <string name="main_file_nation_tx">族</string>
+    <string name="main_file_jl_tx">焦虑自评量表</string>
+    <string name="main_file_yy_tx">抑郁自评量表</string>
+    <string name="main_file_sh_tx">社会支持量表</string>
+    <string name="main_file_yw_tx">药物成瘾者生存质量测定量表</string>
+    <string name="main_file_aqt_tx">安全套使用自我效能量表</string>
+
+</resources>
