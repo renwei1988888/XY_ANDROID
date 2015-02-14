@@ -24,6 +24,7 @@ public class BBSDisGroupActivity extends BaseActivity {
 	@Click(R.id.main_topleft_img)
 	public void back(){
 		this.finish();
+		
 	}
 
 }
